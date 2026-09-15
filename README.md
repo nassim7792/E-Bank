@@ -339,3 +339,4 @@ demo-data loaders and infrastructure wiring.
 ## License
 
 MIT, see [LICENSE](LICENSE).
+Thanks for checking out this project.
